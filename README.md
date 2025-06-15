@@ -1,6 +1,6 @@
 # Hello World Bonanza! 🌍
 
-A collection of "Hello, World!" programs in 20 different programming languages. Perfect for learning basic syntax comparisons or starting new projects!
+A collection of "Hello, World!" programs in 20 different programming languages. 
 
 ## Languages Included:
 1. Python 3. Python (`hello.py`)
